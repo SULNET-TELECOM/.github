@@ -20,7 +20,4 @@ Em 2026, completamos **20 anos**. Confira a campanha: **`20anos.sulnet.com.br`**
 - **Facebook**: `https://www.facebook.com/redesulnet`
 - **YouTube**: `https://www.youtube.com/@sulnettelecom`
 
-## Trabalhe conosco
-Envie seu currículo: `https://form.typeform.com/to/oAitEPGt?typeform-source=site.sulnet.com.br`
-
 <img width="1920" height="180" alt="image" src="https://github.com/user-attachments/assets/b95798ee-8a40-4afb-aa97-363775e89abf" />
